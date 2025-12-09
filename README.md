@@ -1,4 +1,4 @@
-# **ChainRiskDB — Crypto Leverage & Liquidation Risk Analytics Using MongoDB**
+# **Crypto Leverage & Liquidation Risk Analytics Using MongoDB**
 
 ChainRiskDB is a NoSQL-based financial risk analytics system built on **MongoDB Atlas**.
 The project models leveraged crypto derivatives activity across multiple exchanges and wallets, enabling stress testing, liquidation forecasting, wallet-level exposure monitoring, and historical event analysis.
