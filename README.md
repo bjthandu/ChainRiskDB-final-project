@@ -212,9 +212,13 @@ Outputs include:
 This project demonstrates:
 
 ✔ How MongoDB handles financial-risk workloads
+
 ✔ Modeling of hierarchical and semi-structured data
+
 ✔ Real-time aggregation pipelines
+
 ✔ Building a scalable risk-analytics system without SQL
+
 ✔ Using GitHub Codespaces for cloud-native development
 
 ---
